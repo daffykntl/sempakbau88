@@ -1,17 +1,17 @@
 {
-  "name": "johnny-gas-convert",
-  "version": "1.0.0",
-  "description": "johnny-gas-convert",
+  "name": "sempak-bau-88",
+  "version": "1.1.4",
+  "description": "sempak-bau-project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tbstorm/johnny-gas-convert.git"
+    "url": "https://github.com/daffykntl/sempakbau88.git"
   },
   "keywords": [
-    "johnny-gas-convert",
+    "sempakbau88",
     "ethereum",
     "gas",
     "eth",
